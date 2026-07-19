@@ -38,7 +38,7 @@ class Employee extends Person{
     void Info(){
         print("=== Employee Information ===");
         print("ID: $id");
-        print("Name $name");
+        print("Name: $name");
         print("Age: $age");
         print("Salary: $salary");
     }
